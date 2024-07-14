@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../betrayalbitch/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "betrayalbitch",
+		"liveServer.settings.port": 5501
+	}
+}
